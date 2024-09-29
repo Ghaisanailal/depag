@@ -1,0 +1,1 @@
+Oke selamat bekerja
