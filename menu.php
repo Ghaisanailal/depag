@@ -2,17 +2,27 @@
  <div class="navbar-header">
         <a class="navbar-brand" href="index.php">
           <i class="glyphicon glyphicon-asterisk"></i>
-          Data Kemenag </a>
+          Dashboard </a>
       </div>
        <!-- Brand -->
  <div class="navbar-header">
         <a class="navbar-brand" href="index.php">
           <i class="glyphicon glyphicon-user"></i>
-          Data pegawai </a>
+          Manajemen Data pegawai </a>
       </div>
 
       <div class="navbar-header">
         <a class="navbar-brand" href="index.php">
           <i class="glyphicon glyphicon-user"></i>
-          Berita </a>
+          Manajemen Cuti </a>
+      </div>
+      <div class="navbar-header">
+        <a class="navbar-brand" href="index.php">
+          <i class="glyphicon glyphicon-user"></i>
+          Manajemen Kenaikan Pangkat</a>
+      </div>
+      <div class="navbar-header">
+        <a class="navbar-brand" href="index.php">
+          <i class="glyphicon glyphicon-user"></i>
+          Manajemen Pensiun </a>
       </div>
