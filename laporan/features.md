@@ -1,34 +1,32 @@
 # Features this App
 
-Nama Aplikasi :
-
-Kelompok :
+Nama Aplikasi : PRISMA (Pelayanan Informasi Sistem Manajemen Pegawai)
+Kelompok : Kemenag
 
 ## Pengguna
 
-1.
-2.
-3.
+1.Admin
+2.Pegawai
+3.Manajer
 
 ## Menu
 
-**Untuk Pengguna 1()**
+**Untuk Pengguna 1(Admin)**
 
-- menu
+- dashboard admin
+- 
+- dst.
+
+**Untuk Pengguna 2(Pegawai)**
+
+- dashboard pegawai
 - menu
 - dst.
 
-**Untuk Pengguna 2()**
-
-- menu
-- menu
-- dst.
-
-**Dst**
 
 ## Fitur
 
-**Untuk Pengguna 1()**
+**Untuk Pengguna 1(Admin)**
 
 A. menu 1
 
@@ -42,13 +40,15 @@ A. menu 2
 - NamaFitur/File 1.2.2 (P)
 - Dst.
 
-**Untuk Pengguna 2()**
+**Untuk Pengguna 2(Pegawai)**
 
 A. menu 1
 
 - NamaFitur/File 2.1.1
 - NamaFitur/File 2.1.2
 - Dst.
+
+
 
 ### Keterangan
 
