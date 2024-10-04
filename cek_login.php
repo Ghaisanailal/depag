@@ -27,7 +27,7 @@ if ($cek > 0) {
         $_SESSION['id'] = $id;
         $_SESSION['level'] = "admin";
         // alihkan ke halaman dashboard admin
-        header("location:index.php");
+        header("location:dashboard_admin.php");
 
         // cek jika user login sebagai pegawai
     } else if ($data['level'] == "Siswa") {
